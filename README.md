@@ -11,4 +11,5 @@ In the realm of medical imaging, where accurate semantic segmentation is of utmo
 
 
 **3. Environment**
+
 The program runs on a high-performance server, with Pytorch version no less than 1.13.0 and Python version 3.8.15.
