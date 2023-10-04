@@ -10,6 +10,10 @@ In the realm of medical imaging, where accurate semantic segmentation is of utmo
 ![image](https://github.com/YF-W/TP-MNet/assets/66008255/bb040db5-0461-4011-924f-d951dad672d3)
 
 
+**3.flow char of TP-MNet**
+![your_network_structure](https://github.com/YF-W/TP-MNet/assets/66008255/7b6b6629-b53b-43c0-b1fc-96315c8af56b)
+
+
 **3. Environment**
 
 The program runs on a high-performance server, with Pytorch version no less than 1.13.0 and Python version 3.8.15.
