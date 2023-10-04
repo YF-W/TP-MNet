@@ -10,7 +10,7 @@ In the realm of medical imaging, where accurate semantic segmentation is of utmo
 ![image](https://github.com/YF-W/TP-MNet/assets/66008255/bb040db5-0461-4011-924f-d951dad672d3)
 
 
-**3.flow char of TP-MNet**
+**3.Flow char of TP-MNet**
 ![your_network_structure](https://github.com/YF-W/TP-MNet/assets/66008255/7b6b6629-b53b-43c0-b1fc-96315c8af56b)
 
 
